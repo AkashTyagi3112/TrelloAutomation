@@ -1,4 +1,4 @@
-Trello UI Automation with Selenium : 
+Trello UI Automation with Selenium.
 This project automates common workflows in [Trello](https://trello.com) using Python and Selenium.
 How to Run:
 1. Clone the repository:
